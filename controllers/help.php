@@ -3,7 +3,7 @@
 class Help {
 
     function __construct() {
-        echo 'We are inside help controller' . '<br />';
+        echo 'We are inside help controller!' . '<br />';
     }
     
     function helpFunction($arg = false){
